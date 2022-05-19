@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    /* background-color: rgb(201, 76, 76); */
+}
+
+.OutputScreen {
+    background-color: #92a8d1;
+}
+
+.Input {
+    background-color: rgb(201, 76, 76);
+}
