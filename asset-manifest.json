@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-last-round-of-the-last-round/static/css/main.0cb0ccfa.css",
+    "main.js": "/The-last-round-of-the-last-round/static/js/main.1b1a4376.js",
+    "static/js/787.18656bdf.chunk.js": "/The-last-round-of-the-last-round/static/js/787.18656bdf.chunk.js",
+    "index.html": "/The-last-round-of-the-last-round/index.html",
+    "main.0cb0ccfa.css.map": "/The-last-round-of-the-last-round/static/css/main.0cb0ccfa.css.map",
+    "main.1b1a4376.js.map": "/The-last-round-of-the-last-round/static/js/main.1b1a4376.js.map",
+    "787.18656bdf.chunk.js.map": "/The-last-round-of-the-last-round/static/js/787.18656bdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb0ccfa.css",
+    "static/js/main.1b1a4376.js"
+  ]
+}
